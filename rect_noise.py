@@ -7,7 +7,7 @@ def detect_weapon(source=0):
     account_sid = 'ACca5e145d3b6570a3125f8bfec0c2fd38'
     auth_token = '25f2237337bfc1a0087c61882548ed3a'
     twilio_phone_number = '+1 620 490 3424'
-    destination_phone_number = '+919307773031'
+    destination_phone_number = 'add yours'
 
     def send_sms_alert():
         client = Client(account_sid, auth_token)
