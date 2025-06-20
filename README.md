@@ -4,9 +4,9 @@
 https://drive.usercontent.google.com/download?id=10uJEsUpQI3EmD98iwrwzbD4e19Ps-LHZ&export=download&authuser=0
 
 # Create Below folder inside zip
-/n visitor 
-/n stolen
-/n persons
-/n recording
+visitor 
+stolen
+ persons
+recording
 
 download all neccessary liabraries 
