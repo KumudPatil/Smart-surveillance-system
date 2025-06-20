@@ -1,12 +1,16 @@
-# Smart-surveillance-system
+# smart-cctv-tkinter
+This is a tkinter gui app for converting your normal laptop camera to smart camera.
 
-# for this project download yolo3 trainging data set 
-https://drive.usercontent.google.com/download?id=10uJEsUpQI3EmD98iwrwzbD4e19Ps-LHZ&export=download&authuser=0
 
-# Create Below folder inside zip
-visitor 
-stolen
- persons
-recording
+you just need to run main.py file inorder to run full app 
 
-download all neccessary liabraries 
+you would need :
+opencv
+tkinter
+
+installed to run these scripts properly
+
+video : https://youtu.be/L1ZQzdT4mEA
+
+thanks ;) 
+
